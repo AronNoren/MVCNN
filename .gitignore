@@ -1,3 +1,9 @@
+#thisrepo
+data/*/
+data/*
+code/models/saved_models/*
+code/models/saved_models/*/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
